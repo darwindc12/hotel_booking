@@ -24,7 +24,7 @@ The Hotel class represents a hotel and has the following methods:
 * book(self): Books the hotel room by setting the hotel's availability to "no" in the CSV file.
 * availability(self): Checks if the hotel is available for booking.
 
-###SpaHotel
+### SpaHotel
 The SpaHotel class represents a spa hotel and inherits from the Hotel class. It has an additional method:
 
 * book_spa_package(self): Books a spa package for the hotel room.
